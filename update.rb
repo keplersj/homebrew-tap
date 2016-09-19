@@ -1,8 +1,8 @@
 class Update < Formula
   desc "Utility to update all of your system's package in one go."
   homepage "https://github.com/keplersj/update"
-  url "https://github.com/keplersj/update/archive/v1.1.0.tar.gz"
-  sha256 "be3e75c85953685f9d5846eeeb05c6f68ca8f000e9c8af5605cb4b6b1427a516"
+  url "https://github.com/keplersj/update/archive/v1.2.0.tar.gz"
+  sha256 "d00c209a89d29013f0eeb22c1cbbb473e287e6894878b90f0d0d84de951c4a35"
   head "https://github.com/keplersj/update.git"
 
   depends_on "bdw-gc"
